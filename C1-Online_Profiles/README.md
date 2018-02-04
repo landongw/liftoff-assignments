@@ -13,4 +13,4 @@ https://github.com/landongw
 https://www.linkedin.com/in/landon-wiedenman/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+C1-Online_Profiles/Landon Wiedenman Resume 1-18.pdf
